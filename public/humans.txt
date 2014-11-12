@@ -1,0 +1,20 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    James Duffy -- Project Lead
+    	App.net @dffy
+    	Email hello@jamesduffy.me
+    	Twitter @duffy0
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    Bootstrap, LESS,
+    jQuery,
+    CodeIgniter,
+    MySQL

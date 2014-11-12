@@ -1,0 +1,2 @@
+#!/bin/bash
+rsync -avzt -e "ssh -p 4242" ../ james@astro:/home/james/www/analytics-app.net
